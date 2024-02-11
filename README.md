@@ -10,8 +10,8 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1||pandas,numpy,seaborn, matplotlib,scipy,requests|
-|Проект 2 
+|Проект 1|||pandas,numpy,seaborn, matplotlib,scipy,requests|
+|Проект 2||pandas,numpy,seaborn, matplotlib,scipy,requests|
 
 
 ### Контакты:
