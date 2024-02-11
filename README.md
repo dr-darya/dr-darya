@@ -13,14 +13,10 @@
 |Проект 1.E-commerce|Анализ совершенных покупок, анализ поведения пользователей. Сегментация пользователей, провела RFM-сегментацию пользователей. Когортный анализ.|pandas,numpy,seaborn, matplotlib,scipy,requests|
 |Проект 2. АБ тестирование|Тестовое задание. АБ тестирования + SQL. Выбор и анализ продуктовых метрик: CR, ARPU, ARPPU. Проверка гипотез, анализ результатов А/B-теста  |pandas,numpy,seaborn, matplotlib,scipy,requests|
 
-### Обучение: 
-
 ### Контакты:
+https://t.me/mdr_darya
 
 ### Языки и инструменты :  
-
-
-
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
