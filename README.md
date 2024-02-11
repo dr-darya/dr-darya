@@ -30,10 +30,6 @@ https://t.me/mdr_darya
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
 
-                                                            
-
-
-
 <!---
 dr-darya/dr-darya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
