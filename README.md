@@ -10,8 +10,8 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1|||pandas,numpy,seaborn, matplotlib,scipy,requests|
-|Проект 2||pandas,numpy,seaborn, matplotlib,scipy,requests|
+|Проект 1.E-commerce|Анализ совершенных покупок, анализ поведения пользователей. Сегментация пользователей, провела RFM-сегментацию пользователей. Когортный анализ.|pandas,numpy,seaborn, matplotlib,scipy,requests|
+|Проект 2. АБ тестирование|Тестовое задание. АБ тестирования + SQL. Выбор и анализ продуктовых метрик: CR, ARPU, ARPPU. Проверка гипотез, анализ результатов А/B-теста  |pandas,numpy,seaborn, matplotlib,scipy,requests|
 
 
 ### Контакты:
