@@ -14,7 +14,6 @@
 |Проект 2. АБ тестирование|Тестовое задание. АБ тестирования + SQL. Выбор и анализ продуктовых метрик: CR, ARPU, ARPPU. Проверка гипотез, анализ результатов А/B-теста  |pandas,numpy,seaborn, matplotlib,scipy,requests|
 
 ### Обучение: 
-![Image alt](https://github.com/dr-darya/dr-darya/blob/main/Аналитик%20данных.pdf)
 
 ### Контакты:
 
