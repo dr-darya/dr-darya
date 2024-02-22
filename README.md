@@ -7,7 +7,7 @@
 ### Основной стек:
 - **Python** (pandas, numpy, scipy, stats, matplotlib, seaborn, plotly).
 - **SQL** (подзапросы, сортировка, join, оконные функции, СУБД ClickHouse и PostgreSQL).
-- **Excel и Google Sheets** (впр, сводные таблицы).
+- **Excel** (впр, сводные таблицы).
 - **Tableau, Redash**.
 - A/B-тестирование, когортный анализ.
 
