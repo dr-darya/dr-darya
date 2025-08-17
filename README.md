@@ -27,8 +27,7 @@
 
 
 ### Контакты:
-[Telegram](https://t.me/mdr_darya)
-
+[Telegram](https://t.me/daryak_ru)
 
 
 <!---
